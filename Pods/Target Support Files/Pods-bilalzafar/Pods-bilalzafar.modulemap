@@ -1,0 +1,6 @@
+framework module Pods_bilalzafar {
+  umbrella header "Pods-bilalzafar-umbrella.h"
+
+  export *
+  module * { export * }
+}
