@@ -24,6 +24,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
           Crashes.self
         ])
         
+//        AppCenter.start(withAppSecret: "f4a05e94-3de1-4c44-bd0e-3382d51315bc", services:[
+//          Analytics.self,
+//          Crashes.self
+//        ])
+        
         return true
     }
 
